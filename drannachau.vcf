@@ -1,0 +1,29 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Chau;Dr. Anna ;;;
+FN:Dr. Anna  Chau
+ORG:Care Dental Camberwell
+COMPANY:Care Dental Camberwell
+TITLE:
+TEL;TYPE=work,pref:(03) 9882 6938
+TEL;CELL;TYPE=mobile,VOICE:
+TEL;CELL;TYPE=Office,VOICE:
+TEL;CELL;TYPE=FAX,VOICE:
+TEL;TYPE=HOME,VOICE:
+TEL;TYPE=SMS:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:info@caredentalcamberwell.com.au
+URL;TYPE=Digital Business Card:
+
+URL;TYPE=Location:http://goo.gl/maps/4H6yxfoLS9NKad5p6
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100585752
+URL;TYPE=Website:http://www.caredentalcamberwell.com.au/
+URL;TYPE=WHATSAPP:
+
+
+
+PHOTO;ENCODING=b:DEF
+NOTE;CHARSET=UTF-8:
+
+END:VCARD
